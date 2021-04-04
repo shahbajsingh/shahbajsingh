@@ -10,5 +10,11 @@ public class tREADME {
     //      TWITTER: https://twitter.com/i2147483647d 
     //      EMAIL: shahbajs987@gmail.com
 
+    public static void main(String [] args){
+
+        System.out.println("test");
+
+    }
+
     
 }
