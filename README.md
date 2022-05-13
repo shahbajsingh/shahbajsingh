@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahbajsingh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahbajsingh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div style="margin-left:auto;margin-right:auto;text-align:center">
       <span class="nowrap" style="color:blue;font-size:18px;"><a href="mailto:shahbajs987@gmail.com?subject=From Github">email me</a></span>
