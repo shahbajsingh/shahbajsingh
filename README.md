@@ -7,6 +7,10 @@
 
 <br />
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajsingh&layout=compact&show_icons=true&theme=react&include_all_commits=true)
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbajsingh&layout=compact&custom_title=Language&nbsp;Overview&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <div style="margin-left:auto;margin-right:auto;text-align:center">
       <span class="nowrap" style="color:blue;font-size:18px;"><a href="mailto:shahbajs987@gmail.com?subject=From Github">email me</a></span>
