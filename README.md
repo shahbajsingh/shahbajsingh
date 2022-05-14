@@ -13,11 +13,6 @@
 
 <br />
 
-### Common Language Usage
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbajsingh&layout=compact&custom_title=Language&nbsp;Overview&langs_count=8&theme=react&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 ~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~
 
