@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=false&vCenter=true&lines=%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B;Hey+there;I'm+Shahbaj;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61dbfb&size=25&duration=3500&center=false&vCenter=true&lines=%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B;Hey+there;I'm+Shahbaj;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <hr />
 
 ### An overview of how active I've been on GitHub recently
