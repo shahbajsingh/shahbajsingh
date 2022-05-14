@@ -1,5 +1,5 @@
-## :wave: &nbsp; Hello there! 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=800&lines=👋+👋+👋;Hi+there;+I'm+Shahbaj+Singh;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
+<hr />
 <p>Here's a look at how active I've been on GitHub recently and an overview of the common languages used throughout my repositories:</p>
 <br />
 
