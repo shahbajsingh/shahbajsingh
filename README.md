@@ -21,7 +21,7 @@
 
 ### A graph of my GitHub activity over the past 30 days
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahbajsingh&theme=react-dark&custom_title=Activity&nbsp;Graph&line=FF10F0&point=FF10F0&hide_border=true&hide_title=true&area=true&area_color=FF10F0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahbajsingh&theme=react-dark&custom_title=Activity&nbsp;Graph&line=61dbfb&point=61dbfb&hide_border=true&hide_title=true&area=true&area_color=61dbfb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
