@@ -3,11 +3,11 @@
 <p>Here's a look at how active I've been on GitHub recently and an overview of the common languages used throughout my repositories:</p>
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahbajsingh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahbajsingh&theme=react&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajsingh&layout=compact&show_icons=true&theme=react&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shahbajsingh&layout=compact&show_icons=true&theme=react&custom_title=GitHub&nbsp;Stats&include_all_commits=true)
 
 <br />
 
