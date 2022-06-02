@@ -34,6 +34,9 @@
 <a href="https://community.adobe.com/t5/photoshop-ecosystem/ct-p/ct-photoshop" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/75505093/171753586-22736f32-01ce-45fd-9e81-6dc1bbbdd973.png" alt="photoshop" width="40" height="40"/>
 </a>
+<a href="https://www.gnu.org/software/octave/index" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/171755816-b8481bef-e307-463b-a0d8-97728e29b4ee.png" alt="octave" width="40" height="40"/>
+</a>
 </p>
 
 <br />
