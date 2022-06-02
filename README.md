@@ -13,6 +13,30 @@
 
 <br />
 
+### Languages and Tools
+
+<p align="left">
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/171753088-27fa9e07-90f8-419b-b2b9-c7f91b1dbdad.png" alt="java" width="40" height="40"/>
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/171753217-2f8ad963-4c47-4a0f-9553-da92021f18b7.png" alt="jupyter" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://jekyllrb.com//" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/171753376-6eaff0f0-8f88-455c-89aa-198ca7a41f50.png" alt="jekyll" width="40" height="40"/>
+</a>
+<a href="https://community.adobe.com/t5/photoshop-ecosystem/ct-p/ct-photoshop" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/171753586-22736f32-01ce-45fd-9e81-6dc1bbbdd973.png" alt="photoshop" width="40" height="40"/>
+</a>
+</p>
+
+<br />
 
 ~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~
 
