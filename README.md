@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61dbfb&size=25&duration=3500&center=false&vCenter=true&lines=%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B;Hey+there;I'm+Shahbaj;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <hr />
 
-### Recent Activity Overview
+### Activity Overview
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahbajsingh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
