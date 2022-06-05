@@ -7,7 +7,7 @@
 
 <br />
 
-### 30 Day Contribution Graph
+### 30 Day Graph
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahbajsingh&theme=react-dark&custom_title=Activity&nbsp;Graph&line=61dbfb&point=61dbfb&hide_border=true&hide_title=true&area=true&area_color=61dbfb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -33,6 +33,9 @@
 </a>
 <a href="https://jekyllrb.com//" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/75505093/171753376-6eaff0f0-8f88-455c-89aa-198ca7a41f50.png" alt="jekyll" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/172044374-ed866b28-5b47-456d-80d3-53c34043b51a.png" alt="c" width="40" height="40"/>
 </a>
 <a href="https://community.adobe.com/t5/photoshop-ecosystem/ct-p/ct-photoshop" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/75505093/171753586-22736f32-01ce-45fd-9e81-6dc1bbbdd973.png" alt="photoshop" width="40" height="40"/>
