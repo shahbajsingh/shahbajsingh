@@ -28,6 +28,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/75505093/172042852-6165dbe6-99f2-4ffb-aee0-7cf1cc5a63aa.png" alt="scikit-learn" width="40" height="40"/>
+</a>
 <a href="https://jekyllrb.com//" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/75505093/171753376-6eaff0f0-8f88-455c-89aa-198ca7a41f50.png" alt="jekyll" width="40" height="40"/>
 </a>
