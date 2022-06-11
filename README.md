@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&size=30&duration=3400&color=61DBFB&vCenter=true&lines=%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B;Hey+there;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&size=30&duration=3400&color=61DBFB&vCenter=true&lines=%F0%9F%91%8B++%F0%9F%91%8B++%F0%9F%91%8B;Hey+there;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <hr />
 
 ### Activity Overview
