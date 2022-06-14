@@ -7,9 +7,9 @@
 
 <br />
 
-<!-- temp fix ### 30 Day Graph
+### 30 Day Graph
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahbajsingh&theme=react-dark&custom_title=Activity&nbsp;Graph&line=61dbfb&point=61dbfb&hide_border=true&hide_title=true&area=true&area_color=61dbfb)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahbajsingh&theme=react-dark&custom_title=Activity&nbsp;Graph&line=61dbfb&point=61dbfb&hide_border=true&hide_title=true&area=true&area_color=61dbfb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
