@@ -22,9 +22,6 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/75505093/171753217-2f8ad963-4c47-4a0f-9553-da92021f18b7.png" alt="jupyter" width="30" height="30"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 </a>
@@ -36,9 +33,6 @@
 </a>
 <a href="https://community.adobe.com/t5/photoshop-ecosystem/ct-p/ct-photoshop" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/75505093/171753586-22736f32-01ce-45fd-9e81-6dc1bbbdd973.png" alt="photoshop" width="30" height="30"/>
-</a>
-<a href="https://www.gnu.org/software/octave/index" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/75505093/171755816-b8481bef-e307-463b-a0d8-97728e29b4ee.png" alt="octave" width="30" height="30"/>
 </a>
 </p>
 
