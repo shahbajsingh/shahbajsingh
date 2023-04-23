@@ -7,7 +7,7 @@
 
 <br />
 
-### Languages and Tools
+<!-- ### Languages and Tools
 
 <p align="left">
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<br />
+<br /> -->
 
 ~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~
 
