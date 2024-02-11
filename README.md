@@ -31,11 +31,3 @@
 </p>
 
 <br /> -->
-
-~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~
-
-<footer>
-      <div align="left" class="footer" style="margin-center:auto;margin-center:auto;text-align:center">
-            <span class="nowrap" style="color:blue;font-size:18px;"><a href="mailto:shahbajs987@gmail.com?subject=From Github">email me</a></span>
-      </div>
-</footer>
